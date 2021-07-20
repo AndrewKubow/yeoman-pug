@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97775416-983e-427e-8fa1-a4132b3e7b58" name="Default Changelist" comment="" />
+    <list default="true" id="97775416-983e-427e-8fa1-a4132b3e7b58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/layouts/default.pug" beforeDir="false" afterPath="$PROJECT_DIR$/app/layouts/default.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +13,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jHIlYwKoRJTeOMnBY5M5lQMQSf" />
   <component name="ProjectViewState">
@@ -35,6 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603454741325</updated>
       <workItem from="1603454742361" duration="1000000" />
+      <workItem from="1626768425418" duration="158000" />
     </task>
     <servers />
   </component>
